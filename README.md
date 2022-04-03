@@ -1,6 +1,6 @@
 **Description**
 
-- The purpose of this repository is to have a place to store algorithms that I have used for my own learning and understanding. Below you will find a list of them in the order I completed them.
+- The purpose of this repository is to have a place to store algorithms I have used for my own learning and understanding. Below you will find a list of them in the order I completed them.
 
 **Test Driven Development**
 
