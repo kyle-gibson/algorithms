@@ -11,3 +11,4 @@
 1. Average Word Length
 2. Find Longest Word
 3. Total Word Length
+
