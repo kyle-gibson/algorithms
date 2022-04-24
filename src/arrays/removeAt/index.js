@@ -33,7 +33,8 @@ const arr3Expected = ["a", "b", "c"];
  * @returns {any} The removed item.
  */
 function removeAt(items, idx) {
-  // code here
+  var index = items.indexOf()
+
 }
 
 // Tests
