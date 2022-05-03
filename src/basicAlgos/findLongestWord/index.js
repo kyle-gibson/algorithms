@@ -3,11 +3,11 @@
  * @returns {string} The longest word. If there are multiple words with the same
  *    length, this should be the last word in the array with that length.
  */
- const findLongestWord = (arr) => {
+const findLongestWord = (arr) => {
   let longestWord = ''
   for (const word of arr) {
     if (word.length >= longestWord.length) {
-      longestWord = word      
+      longestWord = word
     }
   }
   return longestWord
